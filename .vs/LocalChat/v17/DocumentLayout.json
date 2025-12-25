@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Momo\\source\\repos\\CHAT_TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64139D4-5B91-4015-95BF-1D5F4C4D2940}|Client\\Client.csproj|c:\\users\\momo\\source\\repos\\chat_tcp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64139D4-5B91-4015-95BF-1D5F4C4D2940}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87A2B7F-8A0B-4AA3-BAA7-A1E0CB2EDFDB}|CHAT_TCP\\Server.csproj|c:\\users\\momo\\source\\repos\\chat_tcp\\chat_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87A2B7F-8A0B-4AA3-BAA7-A1E0CB2EDFDB}|CHAT_TCP\\Server.csproj|solutionrelative:chat_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Momo\\source\\repos\\CHAT_TCP\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Momo\\source\\repos\\CHAT_TCP\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:41:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Momo\\source\\repos\\CHAT_TCP\\CHAT_TCP\\Program.cs",
+              "RelativeDocumentMoniker": "CHAT_TCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Momo\\source\\repos\\CHAT_TCP\\CHAT_TCP\\Program.cs",
+              "RelativeToolTip": "CHAT_TCP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:49:19.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
