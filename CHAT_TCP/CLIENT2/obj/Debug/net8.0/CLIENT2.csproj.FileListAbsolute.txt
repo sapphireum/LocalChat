@@ -1,0 +1,14 @@
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\bin\Debug\net8.0\CLIENT2.exe
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\bin\Debug\net8.0\CLIENT2.deps.json
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\bin\Debug\net8.0\CLIENT2.runtimeconfig.json
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\bin\Debug\net8.0\CLIENT2.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\bin\Debug\net8.0\CLIENT2.pdb
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.AssemblyInfoInputs.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.AssemblyInfo.cs
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\refint\CLIENT2.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.pdb
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\CLIENT2.genruntimeconfig.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CLIENT2\obj\Debug\net8.0\ref\CLIENT2.dll

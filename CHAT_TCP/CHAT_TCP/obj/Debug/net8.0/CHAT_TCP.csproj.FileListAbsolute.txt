@@ -1,0 +1,14 @@
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.AssemblyInfoInputs.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.AssemblyInfo.cs
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\bin\Debug\net8.0\CHAT_TCP.exe
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\bin\Debug\net8.0\CHAT_TCP.deps.json
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\bin\Debug\net8.0\CHAT_TCP.runtimeconfig.json
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\bin\Debug\net8.0\CHAT_TCP.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\bin\Debug\net8.0\CHAT_TCP.pdb
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\refint\CHAT_TCP.dll
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.pdb
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\CHAT_TCP.genruntimeconfig.cache
+C:\Users\Momo\source\repos\CHAT_TCP\CHAT_TCP\obj\Debug\net8.0\ref\CHAT_TCP.dll
